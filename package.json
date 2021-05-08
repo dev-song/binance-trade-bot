@@ -1,0 +1,12 @@
+{
+  "name": "binance-trade-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dev-song/binance-trade-bot.git",
+  "author": "Sangsu Song <dvlprsong@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^9.0.0",
+    "express": "^4.17.1"
+  }
+}
